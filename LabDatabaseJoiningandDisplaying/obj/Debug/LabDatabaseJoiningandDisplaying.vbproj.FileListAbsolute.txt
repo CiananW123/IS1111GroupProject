@@ -1,0 +1,13 @@
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\bin\Debug\bin\Debug\Baseball (1).accdb
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\bin\Debug\LabDatabaseJoiningandDisplaying.exe.config
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\bin\Debug\LabDatabaseJoiningandDisplaying.exe
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\bin\Debug\LabDatabaseJoiningandDisplaying.pdb
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\bin\Debug\LabDatabaseJoiningandDisplaying.xml
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\obj\Debug\LabDatabaseJoiningandDisplaying.vbprojAssemblyReference.cache
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\obj\Debug\LabDatabaseJoiningandDisplaying.Form1.resources
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\obj\Debug\LabDatabaseJoiningandDisplaying.Resources.resources
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\obj\Debug\LabDatabaseJoiningandDisplaying.vbproj.GenerateResource.cache
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\obj\Debug\LabDatabaseJoiningandDisplaying.vbproj.CoreCompileInputs.cache
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\obj\Debug\LabDatabaseJoiningandDisplaying.exe
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\obj\Debug\LabDatabaseJoiningandDisplaying.xml
+C:\Users\Cianan\Desktop\IS1111\LabDatabaseJoiningandDisplaying\obj\Debug\LabDatabaseJoiningandDisplaying.pdb
